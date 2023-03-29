@@ -30,7 +30,7 @@ const onScroll = (event) => {
     button.style.translate = "0 -50px";
     button.style.scale = "0.8";
   } else {
-    banner.style.backgroundSize = "200%";
+    banner.style.backgroundSize = "300%";
     h1.style.opacity = 1;
     h1.style.translate = 0;
     h1.style.scale = 1;

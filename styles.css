@@ -123,11 +123,13 @@ button {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 90%;
+  height: 100%;
   background: url("z.png");
-  background-size: 200%;
+  background-size: 300%;
   background-position: center;
   transition: 0.5s;
+  background-repeat: no-repeat;
+  background-color: black;
 }
 
 .banner h1 {
@@ -146,8 +148,9 @@ button {
 }
 
 .FirstPage {
-  background-color: black;
+  background-color: whitesmoke;
   margin: 0;
   padding: 0;
+  background-color: black;
 }
 
